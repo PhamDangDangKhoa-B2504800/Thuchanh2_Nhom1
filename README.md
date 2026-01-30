@@ -1,11 +1,12 @@
 Bài THực Hành Số 2            
-            Họ và tên:             Nguyễn Vươn Anh Kiệt (MSSV: B2504802)            
+            Họ và tên:            
+            Nguyễn Vươn Anh Kiệt (MSSV: B2504802)            
             Phạm Vĩnh Khang (MSSV: B2504799)            
             Phạm Đặng Đăng Khoa (MSSV: B2504800)            
             Nguyễn Trung Mãi (MSSV: B2504805)            
 
 
- BÀI THỰC HÀNH SỐ 1 – MICROSOFT WORD (MAIL MERGE)
+ Phần 1: MICROSOFT WORD (MAIL MERGE)
  Những việc bạn cần làm:
 
 Tạo file Excel (dữ liệu nguồn)
@@ -49,7 +50,9 @@ Lưu file Word sau khi trộn thư hoàn chỉnh.
  Mục tiêu bài 1:
 Biết sử dụng Mail Merge để tạo văn bản hàng loạt từ dữ liệu Excel.
 
-BÀI THỰC HÀNH SỐ 2 – MICROSOFT WORD (MỤC LỤC)
+Phần 2 MICROSOFT WORD (MỤC LỤC)
+
+
 Những việc bạn cần làm:
 
 Nhập nội dung văn bản nhiều trang
@@ -78,7 +81,7 @@ Khi chỉnh sửa nội dung, dùng Update Table để cập nhật lại số t
 Mục tiêu bài 2:
 Biết tạo và quản lý mục lục tự động trong Word.
 
-BÀI THỰC HÀNH SỐ 3 – GOOGLE DOCS
+Phần 3 GOOGLE DOCS
 3.1 Tạo file & chia sẻ
 
 Tạo file Google Docs mới.
@@ -153,13 +156,11 @@ Dùng Comment/Suggest để thảo luận chỉnh sửa nội dung.
 
 Xem Version history để kiểm tra lịch sử chỉnh sửa.
 
-Mục tiêu bài 3:
+Mục tiêu Bài Thực Hành 2:
 
 Biết sử dụng Google Docs, định dạng văn bản, chia sẻ quyền, comment và kiểm tra lịch sử chỉnh sửa.
 
 TÓM TẮT NGẮN GỌN
-Bài 1: Mail Merge – trộn thư từ Excel sang Word
-
-Bài 2: Heading & tạo mục lục tự động trong Word
-
+Phần 1: Mail Merge – trộn thư từ Excel sang Word
+Phần 2: Biết tạo và quản lý mục lục tự động trong Word 
 Bài 3: Soạn thảo, định dạng, chia sẻ và làm việc nhóm trên Google Docs
