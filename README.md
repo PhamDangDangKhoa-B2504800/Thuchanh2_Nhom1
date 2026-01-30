@@ -161,6 +161,6 @@ Mục tiêu Bài Thực Hành 2:
 Biết sử dụng Google Docs, định dạng văn bản, chia sẻ quyền, comment và kiểm tra lịch sử chỉnh sửa.
 
 TÓM TẮT NGẮN GỌN
-Phần 1: Mail Merge – trộn thư từ Excel sang Word
-Phần 2: Biết tạo và quản lý mục lục tự động trong Word 
-Bài 3: Soạn thảo, định dạng, chia sẻ và làm việc nhóm trên Google Docs
+Phần 1: Mail Merge – trộn thư từ Excel sang Word   
+Phần 2: Biết tạo và quản lý mục lục tự động trong Word  
+Bài 3: Soạn thảo, định dạng, chia sẻ và làm việc nhóm trên Google Docs 
