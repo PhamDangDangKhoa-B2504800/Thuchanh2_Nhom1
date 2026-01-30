@@ -1,5 +1,5 @@
 Bài THực Hành Số 2
-Họ và tên:: Nguyễn Vươn Anh Kiệt (MSSV: B2504802)            
+Họ và tên::             Nguyễn Vươn Anh Kiệt (MSSV: B2504802)            
             Phạm Vĩnh Khang (MSSV: B2504799)            
             Phạm Đặng Đăng Khoa (MSSV: B2504800)            
             Nguyễn Trung Mãi (MSSV: B2504805)            
